@@ -4,3 +4,4 @@
 - 🌱 I’m currently learning web-development.
 - 💞️ I’m looking for internships
 - 📫 How to reach me : mail: marjunbn14@gmail.com
+- 📫 How to reach me : mail: 20je0243@ece.iitism.ac.in
